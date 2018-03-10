@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #fff;
+    color: #555;
+    font-family: 'Lato','arial', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+    
+}
+
+
+
+.clearfix {zoom: 1;}
+.clearfix:after {
+    content: '.';
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.row {
+    max-width: 1140px;
+   margin: auto;
+    padding: 50px 0 0 0;
+}
+
+
+ .ula-a {
+    list-style: none;
+}
+
+
+.ula-a li {
+    display: inline-block;
+    width: 33.33%;
+   
+    float: left;
+   
+}
+.fig img {
+    width: 100%;
+    height: auto;
+}
+
+.fig {
+    margin: 10px;
+}
+.figcap {
+    display: block;
+    padding: 8px 0 0;
+    color: #888;
+    font-size: 85%;
+    position: relative;
+   
+}
+
+.ul-2 li:after{
+    position: absolute;
+    left: -9px;
+    content: '\2022';
+    
+    
+    }
