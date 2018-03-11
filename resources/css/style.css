@@ -5,7 +5,7 @@
 }
 
 html{
-    background-color:#fff;
+    background-color:#4c4c4c;
     color: #555;
     font-family: 'Lato','arial', sans-serif;
     font-size: 20px;
@@ -26,15 +26,17 @@ html{
     visibility: hidden;
 }
 
+
 .row {
     max-width: 1140px;
    margin: auto;
     padding: 50px 0 0 0;
-    background-color:#4c4c4c;
-    border-radius: 2%;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding:30px; 
+    border-radius: 1%;
+    padding: 40px;
+    margin-top:110px ;
+    margin-bottom: 110px;
+    background-color:rgb(245, 245, 245);
+
 }
 
 
