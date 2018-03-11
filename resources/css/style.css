@@ -5,7 +5,7 @@
 }
 
 html{
-    background-color: #fff;
+    background-color:#fff;
     color: #555;
     font-family: 'Lato','arial', sans-serif;
     font-size: 20px;
@@ -30,6 +30,11 @@ html{
     max-width: 1140px;
    margin: auto;
     padding: 50px 0 0 0;
+    background-color:#4c4c4c;
+    border-radius: 2%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:30px; 
 }
 
 
@@ -69,6 +74,8 @@ html{
     position: absolute;
     left: -9px;
     content: '\2022';
-    
-    
     }
+.planbox {
+       
+
+}
